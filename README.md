@@ -2,6 +2,8 @@
 
 
  ##cd frontend
+
+ ##cd client
  
  ##npm install
  
