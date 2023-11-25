@@ -1,0 +1,454 @@
+2023-11-24 14:08:08,195 - WARNING -  * Debugger is active!
+2023-11-24 14:08:08,204 - INFO -  * Debugger PIN: 443-514-017
+2023-11-24 14:08:16,561 - INFO - 127.0.0.1 - - [24/Nov/2023 14:08:16] "GET / HTTP/1.1" 200 -
+2023-11-24 14:08:42,519 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:08:42,670 - INFO - 127.0.0.1 - - [24/Nov/2023 14:08:42] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:08:43,783 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:08:43,795 - INFO - 127.0.0.1 - - [24/Nov/2023 14:08:43] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:09:05,732 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-24 14:09:05,742 - INFO - [33mPress CTRL+C to quit[0m
+2023-11-24 14:09:05,759 - INFO -  * Restarting with stat
+2023-11-24 14:09:06,827 - WARNING -  * Debugger is active!
+2023-11-24 14:09:06,835 - INFO -  * Debugger PIN: 443-514-017
+2023-11-24 14:09:30,386 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:30,390 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:30] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:09:30,390 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:30,390 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:09:30,396 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:30] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:09:30,635 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:30,636 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:30] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:09:30,703 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:30,709 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:09:30,709 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:30] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:09:30,893 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:30] "GET /uploads/download.jpg HTTP/1.1" 200 -
+2023-11-24 14:09:36,185 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:36,196 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:36] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:09:37,933 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:37,933 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:37] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:09:38,179 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:38,195 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:38] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:09:43,290 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:43,292 - INFO - File uploaded successfully - Filename: download.jpg, Uploaded by: admin, Role: admin
+2023-11-24 14:09:43,292 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:43] "POST /upload HTTP/1.1" 200 -
+2023-11-24 14:09:46,397 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:46,424 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:46] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:09:47,391 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:47,397 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:47] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:09:47,901 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:47,924 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:47] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:09:48,159 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:48,181 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:48] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:09:48,236 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:09:48,259 - INFO - 127.0.0.1 - - [24/Nov/2023 14:09:48] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:10:09,663 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:10:09,668 - INFO - 127.0.0.1 - - [24/Nov/2023 14:10:09] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:10:10,164 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:10:10,188 - INFO - 127.0.0.1 - - [24/Nov/2023 14:10:10] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:10:10,414 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:10:10,437 - INFO - 127.0.0.1 - - [24/Nov/2023 14:10:10] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:10:10,503 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:10:10,530 - INFO - 127.0.0.1 - - [24/Nov/2023 14:10:10] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:10:10,601 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:10:10,629 - INFO - 127.0.0.1 - - [24/Nov/2023 14:10:10] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:10:10,839 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:10:10,866 - INFO - 127.0.0.1 - - [24/Nov/2023 14:10:10] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:10:57,593 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:10:57,604 - INFO - 127.0.0.1 - - [24/Nov/2023 14:10:57] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:12:37,304 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:12:37,304 - INFO - 127.0.0.1 - - [24/Nov/2023 14:12:37] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:12:37,307 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:12:37,312 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:12:37,312 - INFO - 127.0.0.1 - - [24/Nov/2023 14:12:37] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:12:39,352 - INFO - 127.0.0.1 - - [24/Nov/2023 14:12:39] "OPTIONS /logout HTTP/1.1" 200 -
+2023-11-24 14:12:39,363 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:12:39,386 - INFO - 127.0.0.1 - - [24/Nov/2023 14:12:39] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:12:39,896 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:12:39,908 - INFO - 127.0.0.1 - - [24/Nov/2023 14:12:39] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:12:40,161 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:12:40,184 - INFO - 127.0.0.1 - - [24/Nov/2023 14:12:40] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:12:40,229 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:12:40,253 - INFO - 127.0.0.1 - - [24/Nov/2023 14:12:40] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:13:07,815 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:13:07,816 - INFO - 127.0.0.1 - - [24/Nov/2023 14:13:07] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:13:08,126 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:13:08,128 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:13:08,130 - INFO - 127.0.0.1 - - [24/Nov/2023 14:13:08] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:13:08,132 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:13:08,133 - INFO - 127.0.0.1 - - [24/Nov/2023 14:13:08] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:13:08,447 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:13:08,448 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:13:08,450 - INFO - 127.0.0.1 - - [24/Nov/2023 14:13:08] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:13:08,670 - INFO - 127.0.0.1 - - [24/Nov/2023 14:13:08] "GET /uploads/download.jpg HTTP/1.1" 200 -
+2023-11-24 14:13:09,770 - INFO - 127.0.0.1 - - [24/Nov/2023 14:13:09] "OPTIONS /logout HTTP/1.1" 200 -
+2023-11-24 14:13:10,083 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:13:10,096 - INFO - 127.0.0.1 - - [24/Nov/2023 14:13:10] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:13:10,477 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:13:10,487 - INFO - 127.0.0.1 - - [24/Nov/2023 14:13:10] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:13:10,989 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:13:10,989 - INFO - 127.0.0.1 - - [24/Nov/2023 14:13:10] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:14:45,248 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:45,248 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:45] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:14:45,256 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:45,261 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:14:45,261 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:45] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:14:47,466 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:47,472 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:47] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:14:47,778 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:47,787 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:47,788 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:47] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:14:47,789 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:14:47,790 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:47] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:14:48,104 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:48,106 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:14:48,107 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:48] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:14:48,124 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:48] "[36mGET /uploads/download.jpg HTTP/1.1[0m" 304 -
+2023-11-24 14:14:49,171 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:49] "OPTIONS /logout HTTP/1.1" 200 -
+2023-11-24 14:14:49,492 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:49,504 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:49] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:14:49,737 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:49,753 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:49] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:14:49,828 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:49,852 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:49] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:14:50,066 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:50,072 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:50] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:14:50,159 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:50,176 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:50] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:14:50,398 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:50,420 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:50] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:14:50,434 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:50,468 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:50] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:14:50,736 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:50,760 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:50] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:14:53,988 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:14:53,993 - INFO - File uploaded successfully - Filename: download.jpg, Uploaded by: admin, Role: admin
+2023-11-24 14:14:53,993 - INFO - 127.0.0.1 - - [24/Nov/2023 14:14:53] "POST /upload HTTP/1.1" 200 -
+2023-11-24 14:15:27,224 - INFO - 127.0.0.1 - - [24/Nov/2023 14:15:27] "OPTIONS /logout HTTP/1.1" 200 -
+2023-11-24 14:15:27,547 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:15:27,559 - INFO - 127.0.0.1 - - [24/Nov/2023 14:15:27] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:18:15,271 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:15,271 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:15] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:18:15,279 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:15,280 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:18:15,287 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:15] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:18:18,456 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:18,457 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:18] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:18:18,761 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:18,761 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:18:18,764 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:18] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:18:18,772 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:18,774 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:18] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:18:19,081 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:19,081 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:18:19,081 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:19] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:18:19,190 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:19] "GET /uploads/download.jpg HTTP/1.1" 200 -
+2023-11-24 14:18:20,719 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:20] "OPTIONS /logout HTTP/1.1" 200 -
+2023-11-24 14:18:21,032 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:21,038 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:21] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:18:21,291 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:21,291 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:21] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:18:21,423 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:21,442 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:21] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:18:44,064 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:44,064 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:44] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:18:44,374 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:44,378 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:44,380 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:44] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:18:44,380 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:18:44,380 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:44] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:18:44,699 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:44,699 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:18:44,699 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:44] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:18:44,849 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:44] "[36mGET /uploads/download.jpg HTTP/1.1[0m" 304 -
+2023-11-24 14:18:48,454 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:48] "OPTIONS /logout HTTP/1.1" 200 -
+2023-11-24 14:18:48,765 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:48,779 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:48] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:18:49,028 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:49,052 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:49] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:18:49,107 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:49,132 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:49] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:18:49,201 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:49,226 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:49] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:18:49,442 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:18:49,468 - INFO - 127.0.0.1 - - [24/Nov/2023 14:18:49] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:19:04,971 - INFO - 127.0.0.1 - - [24/Nov/2023 14:19:04] "OPTIONS /logout HTTP/1.1" 200 -
+2023-11-24 14:19:04,980 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:19:05,004 - INFO - 127.0.0.1 - - [24/Nov/2023 14:19:05] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:19:50,691 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-24 14:19:50,693 - INFO - [33mPress CTRL+C to quit[0m
+2023-11-24 14:19:50,701 - INFO -  * Restarting with stat
+2023-11-24 14:19:51,479 - WARNING -  * Debugger is active!
+2023-11-24 14:19:51,484 - INFO -  * Debugger PIN: 443-514-017
+2023-11-24 14:20:16,247 - INFO - 127.0.0.1 - - [24/Nov/2023 14:20:16] "GET / HTTP/1.1" 200 -
+2023-11-24 14:20:24,938 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:20:24,938 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:20:24,938 - INFO - 127.0.0.1 - - [24/Nov/2023 14:20:24] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:20:24,946 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:20:24,946 - INFO - 127.0.0.1 - - [24/Nov/2023 14:20:24] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:20:25,210 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:20:25,210 - INFO - 127.0.0.1 - - [24/Nov/2023 14:20:25] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:20:25,255 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:20:25,263 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:20:25,263 - INFO - 127.0.0.1 - - [24/Nov/2023 14:20:25] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:20:25,459 - INFO - 127.0.0.1 - - [24/Nov/2023 14:20:25] "[36mGET /uploads/download.jpg HTTP/1.1[0m" 304 -
+2023-11-24 14:20:26,944 - INFO - 127.0.0.1 - - [24/Nov/2023 14:20:26] "OPTIONS /logout HTTP/1.1" 200 -
+2023-11-24 14:20:26,953 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:20:26,964 - INFO - 127.0.0.1 - - [24/Nov/2023 14:20:26] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:22:24,280 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:22:24,280 - INFO - 127.0.0.1 - - [24/Nov/2023 14:22:24] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:22:24,285 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:22:24,285 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:22:24,286 - INFO - 127.0.0.1 - - [24/Nov/2023 14:22:24] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:22:44,511 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:22:44,514 - INFO - 127.0.0.1 - - [24/Nov/2023 14:22:44] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:22:44,840 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:22:44,840 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:22:44,840 - INFO - 127.0.0.1 - - [24/Nov/2023 14:22:44] "GET /user HTTP/1.1" 200 -
+2023-11-24 14:22:44,840 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:22:44,847 - INFO - 127.0.0.1 - - [24/Nov/2023 14:22:44] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:22:45,094 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:22:45,094 - INFO - Admin user fetched images - Page: 1, Per Page: 5
+2023-11-24 14:22:45,094 - INFO - 127.0.0.1 - - [24/Nov/2023 14:22:45] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+2023-11-24 14:22:45,167 - INFO - 127.0.0.1 - - [24/Nov/2023 14:22:45] "[36mGET /uploads/download.jpg HTTP/1.1[0m" 304 -
+2023-11-24 14:22:46,154 - INFO - 127.0.0.1 - - [24/Nov/2023 14:22:46] "OPTIONS /logout HTTP/1.1" 200 -
+2023-11-24 14:22:46,165 - INFO - Loaded user: admin, Role: admin
+2023-11-24 14:22:46,187 - INFO - 127.0.0.1 - - [24/Nov/2023 14:22:46] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2023-11-24 14:25:09,225 - INFO -  * Detected change in 'C:\\Users\\Hello\\OneDrive\\Desktop\\image-management-app\\backend\\app.py', reloading
+2023-11-24 14:25:09,389 - INFO -  * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 443-514-017
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 18:17:49] "GET / HTTP/1.1" 200 -
+ERROR:app:Unhandled Exception: 401 Unauthorized: The server could not verify that you are authorized to access the URL requested. You either supplied the wrong credentials (e.g. a bad password), or your browser doesn't understand how to supply the credentials required.
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 18:17:58] "[35m[1mGET /user HTTP/1.1[0m" 500 -
+ERROR:app:Unhandled Exception: 401 Unauthorized: The server could not verify that you are authorized to access the URL requested. You either supplied the wrong credentials (e.g. a bad password), or your browser doesn't understand how to supply the credentials required.
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 18:17:58] "[35m[1mGET /user HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Hello\\OneDrive\\Desktop\\image-management-app\\backend\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 443-514-017
+ERROR:app:Unhandled Exception: 401 Unauthorized: The server could not verify that you are authorized to access the URL requested. You either supplied the wrong credentials (e.g. a bad password), or your browser doesn't understand how to supply the credentials required.
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 18:32:13] "[35m[1mGET /user HTTP/1.1[0m" 500 -
+ERROR:app:Unhandled Exception: 401 Unauthorized: The server could not verify that you are authorized to access the URL requested. You either supplied the wrong credentials (e.g. a bad password), or your browser doesn't understand how to supply the credentials required.
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 18:32:13] "[35m[1mGET /user HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 18:32:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 18:32:21] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 18:32:21] "POST /login HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 18:32:24] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 18:32:27] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 18:32:27] "POST /login HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:29:41] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:29:42] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:29:42] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:29:42] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:29:50] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:29:50] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:29:51] "[36mGET /uploads/WhatsApp_Image_2023-11-21_at_17.08.45.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:29:51] "[36mGET /uploads/download.jpg HTTP/1.1[0m" 304 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:29:54] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:29:57] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:29:57] "POST /login HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:29:59] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:31:55] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:31:55] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:31:56] "[36mGET /uploads/download.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 20:31:56] "[36mGET /uploads/WhatsApp_Image_2023-11-21_at_17.08.45.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 443-514-017
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:56:54] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:56:54] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:56:54] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:56:54] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:56:56] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:56:56] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:56:57] "[36mGET /uploads/WhatsApp_Image_2023-11-21_at_17.08.45.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:56:57] "[36mGET /uploads/download.jpg HTTP/1.1[0m" 304 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:56:59] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:01] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:21] "OPTIONS /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:21] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:24] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:27] "OPTIONS /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:27] "POST /label HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:27] "OPTIONS /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:27] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:27] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:30] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:31] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:32] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:36] "OPTIONS /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:36] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:39] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:57:50] "GET / HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:29] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:34] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:35] "POST /login HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:38] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:38] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:38] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:38] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:49] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:49] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:50] "[36mGET /uploads/WhatsApp_Image_2023-11-21_at_17.08.45.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:50] "[36mGET /uploads/download.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:55] "OPTIONS /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:55] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 10:58:58] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:00:08] "OPTIONS /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:00:08] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:00:11] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:00:20] "OPTIONS /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:00:21] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:00:23] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:00:26] "GET /admin-dashboard HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:00:29] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:00:32] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:00:33] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Hello\\OneDrive\\Desktop\\image-management-app\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 443-514-017
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:20:58] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:20:58] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:05] "GET / HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:12] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:13] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:13] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:13] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:16] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:17] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:17] "[36mGET /uploads/download.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:17] "[36mGET /uploads/WhatsApp_Image_2023-11-21_at_17.08.45.jpeg HTTP/1.1[0m" 304 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:21] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:23] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:24] "POST /login HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:32] "GET /admin-dashboard HTTP/1.1" 200 -
+ERROR:app:Unhandled Exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:47] "[35m[1mOPTIONS /delete-labels HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:54] "OPTIONS /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:54] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:54] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:54] "[31m[1mPOST /label HTTP/1.1[0m" 400 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:55] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:21:56] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:22:15] "OPTIONS /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:22:15] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:22:17] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:19] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:19] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:23] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:24] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:24] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:24] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:28] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:28] "POST /login HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:28] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:28] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:28] "[36mGET /uploads/download.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:28] "[36mGET /uploads/WhatsApp_Image_2023-11-21_at_17.08.45.jpeg HTTP/1.1[0m" 304 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:35] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:38] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:38] "POST /login HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:38] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:38] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: user, Role: normal
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:41] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:44] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:44] "POST /login HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:44] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:44] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:48] "OPTIONS /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:48] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:50] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:30:50] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:31:02] "OPTIONS /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:31:02] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:31:05] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:31:06] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:31:09] "OPTIONS /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:31:09] "POST /label HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:31:11] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:31:11] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 11:31:14] "GET /logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 13:15:08] "OPTIONS /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 13:15:09] "POST /login HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 13:15:09] "GET /user HTTP/1.1" 200 -
+INFO:app:Loaded user: admin, Role: admin
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 13:15:09] "GET /images?page=1&per_page=5 HTTP/1.1" 200 -
